@@ -1,4 +1,4 @@
-# Multi-Agent-Financial-Analysis-System_Group-9
+# Multi-Agent-Financial-Analysis-System
 Build a real-world financial analysis system powered by agentic AI.
 
 # 📈 Multi-Agent Financial Analysis System (MAFAS)
