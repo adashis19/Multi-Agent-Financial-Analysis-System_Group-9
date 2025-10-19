@@ -46,5 +46,4 @@ Each agent performs a distinct cognitive function and interacts dynamically to p
 - **OpenAI GPT model** – reasoning, summarization, evaluation  
 - **Memory module** – stores past route and score for adaptive learning  
 
-pip install yfinance requests openai pandas numpy
 
